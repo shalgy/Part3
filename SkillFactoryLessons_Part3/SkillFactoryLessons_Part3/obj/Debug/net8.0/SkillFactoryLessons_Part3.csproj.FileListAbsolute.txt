@@ -1,0 +1,15 @@
+C:\Users\Shalgy\Repos\Part3\SkillFactoryLessons_Part3\SkillFactoryLessons_Part3\bin\Debug\net8.0\SkillFactoryLessons_Part3.exe
+C:\Users\Shalgy\Repos\Part3\SkillFactoryLessons_Part3\SkillFactoryLessons_Part3\bin\Debug\net8.0\SkillFactoryLessons_Part3.deps.json
+C:\Users\Shalgy\Repos\Part3\SkillFactoryLessons_Part3\SkillFactoryLessons_Part3\bin\Debug\net8.0\SkillFactoryLessons_Part3.runtimeconfig.json
+C:\Users\Shalgy\Repos\Part3\SkillFactoryLessons_Part3\SkillFactoryLessons_Part3\bin\Debug\net8.0\SkillFactoryLessons_Part3.dll
+C:\Users\Shalgy\Repos\Part3\SkillFactoryLessons_Part3\SkillFactoryLessons_Part3\bin\Debug\net8.0\SkillFactoryLessons_Part3.pdb
+C:\Users\Shalgy\Repos\Part3\SkillFactoryLessons_Part3\SkillFactoryLessons_Part3\obj\Debug\net8.0\SkillFactoryLessons_Part3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shalgy\Repos\Part3\SkillFactoryLessons_Part3\SkillFactoryLessons_Part3\obj\Debug\net8.0\SkillFactoryLessons_Part3.AssemblyInfoInputs.cache
+C:\Users\Shalgy\Repos\Part3\SkillFactoryLessons_Part3\SkillFactoryLessons_Part3\obj\Debug\net8.0\SkillFactoryLessons_Part3.AssemblyInfo.cs
+C:\Users\Shalgy\Repos\Part3\SkillFactoryLessons_Part3\SkillFactoryLessons_Part3\obj\Debug\net8.0\SkillFactoryLessons_Part3.csproj.CoreCompileInputs.cache
+C:\Users\Shalgy\Repos\Part3\SkillFactoryLessons_Part3\SkillFactoryLessons_Part3\obj\Debug\net8.0\SkillFactoryLessons_Part3.sourcelink.json
+C:\Users\Shalgy\Repos\Part3\SkillFactoryLessons_Part3\SkillFactoryLessons_Part3\obj\Debug\net8.0\SkillFactoryLessons_Part3.dll
+C:\Users\Shalgy\Repos\Part3\SkillFactoryLessons_Part3\SkillFactoryLessons_Part3\obj\Debug\net8.0\refint\SkillFactoryLessons_Part3.dll
+C:\Users\Shalgy\Repos\Part3\SkillFactoryLessons_Part3\SkillFactoryLessons_Part3\obj\Debug\net8.0\SkillFactoryLessons_Part3.pdb
+C:\Users\Shalgy\Repos\Part3\SkillFactoryLessons_Part3\SkillFactoryLessons_Part3\obj\Debug\net8.0\SkillFactoryLessons_Part3.genruntimeconfig.cache
+C:\Users\Shalgy\Repos\Part3\SkillFactoryLessons_Part3\SkillFactoryLessons_Part3\obj\Debug\net8.0\ref\SkillFactoryLessons_Part3.dll
